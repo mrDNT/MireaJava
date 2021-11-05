@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI.Layout">
+  <grid id="27dc6" binding="rootPanel" layout-manager="GridLayoutManager" row-count="4" column-count="2" same-size-horizontally="true" same-size-vertically="true" hgap="10" vgap="10">
+    <margin top="100" left="100" bottom="100" right="100"/>
+    <constraints>
+      <xy x="20" y="20" width="624" height="444"/>
+    </constraints>
+    <properties/>
+    <border type="line">
+      <title-color color="-4473925"/>
+      <color color="-4473925"/>
+    </border>
+    <children>
+      <component id="84997" class="javax.swing.JButton" binding="ACMilanButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="AC Milan"/>
+        </properties>
+      </component>
+      <component id="f03c0" class="javax.swing.JLabel" binding="result">
+        <constraints>
+          <grid row="0" column="0" row-span="3" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Result: 0 x 0"/>
+        </properties>
+      </component>
+      <component id="6c800" class="javax.swing.JLabel" binding="last">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Last scorer: N/A"/>
+        </properties>
+      </component>
+      <component id="612a5" class="javax.swing.JButton" binding="realMadridButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Real Madrid"/>
+        </properties>
+      </component>
+      <component id="232de" class="javax.swing.JLabel" binding="winner">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Winner: Draw"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
