@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0758f25a-6547-401c-9fb8-ebbe538a97bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movable/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movable/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movable/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movable/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movable/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shape/TestShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shape/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Shape/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636135703696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Work 3">
+      <created>1636148277103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636148277103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+    <MESSAGE value="Work 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Work 3" />
   </component>
 </project>
